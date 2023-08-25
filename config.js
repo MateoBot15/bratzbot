@@ -11,25 +11,25 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["593993684821", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-["593980586516", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
-["5492266466080"], 
-["593968585383"], 
-["5492266613038"],
-["595975740803"], 
-["51906662557"]]
+["51929741688", '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ', true],
+["51929741688", '𝙊𝙬𝙣𝙚𝙧', true], 
+["51929741688"], 
+["51929741688"], 
+["51929741688"],
+["51929741688"], 
+["51929741688"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [];
-global.prems = ["528451003894"];
+global.prems = ["551929741688"];
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"];
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga MateoBot
+//Add the language you want MateoBot to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
@@ -107,15 +107,15 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈";
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
+global.packname = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
+global.author = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.4.9";
 global.vsJB = "2.0";
 
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
+global.gt = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
 global.yt = "https://youtube.com/@gatadios";
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
 global.ig = "https://www.instagram.com/gata_dios";
@@ -135,7 +135,7 @@ global.nnnttt2 = 'https://chat.whatsapp.com/EjiaKJWvzaiAmvktpScgEc' //Grupo 7 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/JzgB9VgPdQWIkIXiuAiecc' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/51929741688' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -169,13 +169,13 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
+global.wm = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭  : 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
+global.igfg = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*";
-global.nomorown = "593993684821";
+global.nomorown = "5929741688";
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
