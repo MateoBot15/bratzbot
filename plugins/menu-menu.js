@@ -98,10 +98,10 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 
 ⊜ *Experiencia ➟* ${exp} ⚡
 ⊜ *Diamantes ➟* ${limit} 💎
-⊜ *GataCoins ➟* ${money} 🐈
+⊜ *MateoCoins ➟* ${money} ☘
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE GATABOT 〕⬣*
+*╭━〔 INFORMACIÓN DE MateoBOT 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
@@ -117,7 +117,7 @@ ${readMore}
 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en GataBot!!*
+┃ *Número en MateoBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}bots | listjadibots_
@@ -134,7 +134,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
+┃ *Une a MateoBot en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
@@ -191,7 +191,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con GataBot!!*
+┃ *Conversar con MateoBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
@@ -282,7 +282,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con GataBot!!*
+┃ *Mejora tú Grupo con MateoBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -527,7 +527,7 @@ ${readMore}
 ┃⚗️➺ _${usedPrefix}trabajar | work_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ TOP EN GATABOT ]━━⬣*
+*╭━━━[ TOP EN MATEOBOT ]━━⬣*
 ┃ *Averigua en que Top te encuentras!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top | lb | leaderboard_
