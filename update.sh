@@ -1,4 +1,4 @@
-# Código desarrollado por @gata_dios
+# Código desarrollado por @mateo_ventas_
   
 #!/data/data/com.termux/files/usr/bin/bash 
 BOT_DIR="GataBot-MD"  
