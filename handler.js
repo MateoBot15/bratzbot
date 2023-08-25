@@ -1192,9 +1192,9 @@ if (m.text && user.banned && !isROwner) {
 *👉 Puedes contactar a la propietaria del Bot si crees que se trata de un error (TENER PRUEBAS) para tratar el motivo de tú desbaneo*
 
 👉 ${global.asistencia}
-👉 wa.me/527441745001
-👉 wa.me/972529277026
-👉 Wa.me/5355772234
+👉 wa.me/51929741688
+👉 wa.me/51929741688
+👉 Wa.me/51929741688
 👉 ${global.ig}
 `.trim();
     
