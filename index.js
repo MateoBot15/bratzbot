@@ -17,7 +17,7 @@ say('Mateo\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Project Author:\nMateo-Bot (@mateo_ventas_)\n\n`, {
+say(`Project Author:\nMateoBot (@mateo_ventas_)\n\nCreado para ti <3`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']});
