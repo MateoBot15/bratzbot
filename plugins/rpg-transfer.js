@@ -14,13 +14,13 @@ async function handler(m, { conn, args, usedPrefix, command }) {
     
 *${usedPrefix + command}  tipo cantidad @tag*
 *EJEMPLO*
-*${usedPrefix + command} exp 30 @59300000000*
+*${usedPrefix + command} exp 30 @51929741688*
 
 ╭━━━━━━━━━━━━━━━━━━ ღ
 ┃ ✅ *RECURSOS DISPONIBLES*
 ┃──────────────
 ┃ limit *= Diamantes* 💎
-┃ money *= GataCoins* 🐈
+┃ money *= MateoCoins* ☘️
 ┃ exp *= Experiencia* ⚡
 ╰━━━━━━━━━━━━━━━━━━ ღ 
 `.trim()

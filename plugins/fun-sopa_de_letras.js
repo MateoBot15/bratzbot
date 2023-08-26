@@ -1,4 +1,4 @@
-//CREADO POR @gata_dios
+//CREADO POR @mateo_Ventas_
  
 let fila, columna, sopaNube, sopaPalabra, sopaDir, userSP, cambioLetra, diamante = null
 let intentos = 0

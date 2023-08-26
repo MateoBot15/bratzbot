@@ -107,34 +107,28 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
-global.author = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
+global.packname = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️";
+global.author = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.4.9";
 global.vsJB = "2.0";
 
-global.gt = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
-global.yt = "https://youtube.com/@gatadios";
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
-global.ig = "https://www.instagram.com/gata_dios";
-global.md = "https://github.com/GataNina-Li/GataBot-MD";
-global.fb = "https://www.facebook.com/groups/872989990425789/";
+global.gt = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️";
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nn2 = 'https://chat.whatsapp.com/I514IYZiwlGEQuoUj32DLU' //UPDATE 2
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/GR5RCg9xc0j3Cvdr9spavw' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/Ldbick7NHg6KIYM08ePEmM' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/DkSiArB76fQ2gasaXbsTpB' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/KarvKzAKHMcJAtStYqTY5y' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HpFEE22gczpHwDoRIAACC6' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/IyQcDZqfTkLG46ph8w1AHy' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/EjiaKJWvzaiAmvktpScgEc' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/JzgB9VgPdQWIkIXiuAiecc' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
+global.nna = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE MATEOBOT
+global.nn2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE 2
+global.nna2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Help
+global.nn = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 9 COL
 global.asistencia = 'Wa.me/51929741688' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -169,8 +163,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭  : 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
-global.igfg = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ";
+global.wm = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️ : 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️";
+global.igfg = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";

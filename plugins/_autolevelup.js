@@ -24,7 +24,7 @@ while (canLevelUp(user.level, user.exp, global.multiplier)) user.level++
 *╰━⊰ ${lenguajeGB.smsAutoLv1()} ⊱━━დ*
 
 *_${lenguajeGB.smsAutoLv6()}_*`, fkontak, m)  		  	 
-/*conn.sendButton(m.chat, '🐈 ' + wm, `*╭━⊰ ${username} ⊱━დ*
+/*conn.sendButton(m.chat, '☘️ ' + wm, `*╭━⊰ ${username} ⊱━დ*
 *┃ ${lenguajeGB.smsAutoLv2()} ${before}*
 *┃ ${lenguajeGB.smsAutoLv3()} ${user.level}*
 *┃ ${lenguajeGB.smsAutoLv4()}* ${user.role}

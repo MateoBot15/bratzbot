@@ -1,17 +1,17 @@
 var handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let pp = gataImg.getRandom()	
-const cat = `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 
+const cat = `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️
 *Wa.me/51929741688*
 
-𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 
+𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️ 
 *wa.me/51929741688*
 *---------------------*
 
 *CENTER GATABOT*
 *centergatabot@gmail.com*
 
-𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️ - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
 
 await conn.sendFile(m.chat, pp, 'gata.mp4', cat, fkontak)
@@ -46,13 +46,13 @@ let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').
 let teksbio = `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 
 *Wa.me/51929741688*
 
-𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 
+𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️
 *wa.me/51929741688*
 *---------------------*
 
-*CENTER MateoBot*
+*CENTER MateoBot☘️*
 
-𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️ - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
   let teks = ' '
 const sections = [

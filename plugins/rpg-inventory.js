@@ -284,7 +284,7 @@ let str = `
 ┃ ╸╸╸╸╸╸╸╸╸╸╸╸╸╸╯
 ┃ ${rpgg.emoticon('exp')} *Exp » ${exp}*
 ┃ ${rpgg.emoticon('limit')} *Diamante : Diamond » ${dia}*
-┃ ${rpgg.emoticon('money')} *GataCoins: » ${money}*
+┃ ${rpgg.emoticon('money')} *MateoCoins ☘️: » ${money}*
 ┃ ${rpgg.emoticon('joincount')} *Token » ${token}*
 ┃ *${rpgshop.emoticon('emerald')} » ${member.emerald}*
 ┃ *${rpgshop.emoticon('berlian')} » ${member.berlian}*
@@ -1044,7 +1044,7 @@ _16.Top Caja para Mascota_ *${userspet.indexOf(m.sender) + 1}* _de_ *${userspet.
 *╭──━• MISIONES*
 *╭──━• MISSIONS*
 *│ ⛏️⚡ Minar EXP » ${new Date - user.lastmiming < 600000 ? '❌' : '✅'}*
-*│ ⛏️🐱 Minar GataCoins » ${new Date - user.lastcoins < 600000 ? '❌' : '✅'}*
+*│ ⛏️🐱 Minar MateoCoins ☘️ » ${new Date - user.lastcoins < 600000 ? '❌' : '✅'}*
 *│ ⛏️💎 Minar Diamantes » ${new Date - user.lastdiamantes < 900000 ? '❌' : '✅'}* 
 *│ ⚗️ Cofre : Coffer » ${new Date - user.lastcofre < 86400000 ? '❌' : '✅'}* 
 *│ 🏹 Caza : Berburu » ${new Date - user.lastberburu < 2700000 ? '❌' : '✅'}* 

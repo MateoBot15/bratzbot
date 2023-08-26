@@ -56,10 +56,10 @@ let old = performance.now()
 
 let info = `╭━━━━[ ${gt} ]━━━━━⬣
 ┃➥ *CREADORA | CREATOR*
-┃ღ *𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨*
+┃ღ 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
-┃ღ *${ig}*
+┃ღ *https://www.instagram.com/mateo_ventas_*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃𓃠 *VERSIÓN ACTUAL | VERSION*
 ┃ღ ${vs}
@@ -100,10 +100,10 @@ await conn.sendFile(m.chat, pp, 'gata.mp4', info, fkontak)
 ╭━━━━[ ${gt} ]━━━━━⬣
 ┃
 ┃➥ *CREADORA | CREATOR*
-┃ღ *𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨*
+┃ღ 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
-┃ღ *${ig}*
+┃ღ *$https://www.instagram.com/mateo_ventas_*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃𓃠 *VERSIÓN ACTUAL | VERSION*
 ┃ღ ${vs}
@@ -143,7 +143,7 @@ await conn.sendFile(m.chat, pp, 'gata.mp4', info, fkontak)
 ┃
 ╰━━━[ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞ó𝙣 | 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 ]━━⬣`.trim()
 
-conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️', null, null, [
 ['𝙑𝙚𝙧 𝙂𝙧𝙪𝙥𝙤𝙨 | 𝙎𝙚𝙚 𝙂𝙧𝙤𝙪𝙥𝙨', '#grupolista'],
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨', '/cuentasgb'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', '.menu']
@@ -152,7 +152,7 @@ conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/GataNina-Li/GataBot-
 }
 handler.help = ['infobot']
 handler.tags = ['info', 'tools']
-handler.command = /^(infobot|informacionbot|infogata|informacióngata|informaciongata)$/i
+handler.command = /^(infobot|informacionbot|infomateo|informaciónmateo|informacionmateo)$/i
 export default handler
 
 function clockString(ms) {

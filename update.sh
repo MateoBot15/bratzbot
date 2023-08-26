@@ -1,7 +1,7 @@
 # Código desarrollado por @mateo_ventas_
   
 #!/data/data/com.termux/files/usr/bin/bash 
-BOT_DIR="GataBot-MD"  
+BOT_DIR="MateoBot"  
 BOT_REPO="https://github.com/GataNina-Li/$BOT_DIR"
 DB_FILE="database.json"
  

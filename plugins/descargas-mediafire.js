@@ -7,7 +7,7 @@ try {
 let res = await mediafireDl(args[0])
 let { name, size, date, mime, link } = res
 let caption = `${eg}
-┃ 𓃠 *${gt} ${vs}*
+┃ ☘️ *${gt} ${vs}*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃ 💫 𝙉𝙊𝙈𝘽𝙍𝙀 | 𝙉𝘼𝙈𝙀
 ┃ ${name}
@@ -19,7 +19,7 @@ let caption = `${eg}
 ┃ ${mime}`.trim()
 conn.reply(m.chat, caption, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 | 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️',
+title: '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️ | 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️',
 body: 'Super Bot WhatsApp',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
 sourceUrl: `https://github.com/GataNina-Li/GataBot-MD`}}})
