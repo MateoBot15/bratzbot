@@ -14,7 +14,6 @@ setTimeout(() => {
 user.banned = false
 texto = `*@${m.sender.split("@")[0]} ${lenguajeGB['smsNoSpam2']()}*`
 conn.reply(m.chat, texto, m, { mentions: this.parseMention(texto) })}, tiempo) 
-//this.sendButton(m.chat, texto, wm, null, [[lenguajeGB.smsConMenu(), '/menu']], m, { mentions: this.parseMention(texto) })}, tiempo)        
 user.antispam = null
 }}
 
