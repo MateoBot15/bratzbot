@@ -129,7 +129,7 @@ auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
 },
-browser: ['MateoBot','Edge','1.0.0'],
+browser: ['GataBot-MD','Edge','1.0.0'],
 version,
 defaultQueryTimeoutMs: undefined,
 };
@@ -166,7 +166,7 @@ return file.startsWith('pre-key-') || file.startsWith('session-') || file.starts
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./MateoBotSession/${files}`)
+unlinkSync(`./GataBotSession/${files}`)
 })
 } 
 
@@ -181,7 +181,7 @@ return fileInDir.startsWith('pre-key-') /*|| fileInDir.startsWith('app-') || fil
 })
 SBprekey = [...SBprekey, ...DSBPreKeys]
 DSBPreKeys.forEach(fileInDir => {
-unlinkSync(`./MateoBot/${directorio}/${fileInDir}`)
+unlinkSync(`./GataJadiBot/${directorio}/${fileInDir}`)
 })
 }
 })
