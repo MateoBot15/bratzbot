@@ -14,3 +14,4 @@ COPY ./root/GataBot-MD
 RUN yarn install
 
 CMD ["node", "index.js"]
+

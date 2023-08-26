@@ -96,11 +96,11 @@ global.moment = moment;
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["18059196237", 'Gata Dios 💻', 1], 
-["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["59894808483", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5491173694367", 'Prueba', 1]];
+["51929741688", 'MateoBot 💻', 1], 
+["51929741688", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["51929741688", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["51929741688", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["51929741688", 'Prueba', 1]];
 
 global.mail = ''; //agrega tú correo
 global.desc = ''; //agrega una descripción corta
@@ -116,6 +116,11 @@ global.vs = "1.4.9";
 global.vsJB = "2.0";
 
 global.gt = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️";
+global.yt = "https://youtube.com/@gatadios";
+global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
+global.ig = "https://www.instagram.com/gata_dios";
+global.md = "https://github.com/GataNina-Li/GataBot-MD";
+global.fb = "https://www.facebook.com/groups/872989990425789/";
 
 global.nna = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE MATEOBOT
 global.nn2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE 2
