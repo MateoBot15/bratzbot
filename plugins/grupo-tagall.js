@@ -4,7 +4,7 @@ global.dfail('admin', m, conn)
 throw false
 }
 let pesan = args.join` `
-let oi = `ღ Creador Wa.me/51929741688 SI QUIERES BOT COMUNICAM ${lenguajeGB['smsAddB5']()} ${pesan}`
+let oi = `ღ${lenguajeGB['Creador Wa.me/51929741688 SI QUIERES BOT COMUNICAME']()} ${pesan}`
 let teks = `╭━〔 ☘️𝐌𝐚𝐭𝐞𝐨 𝐋𝐞𝐬 𝐏𝐢𝐝𝐞 𝐐𝐮𝐞 𝐃𝐞𝐬𝐩𝐢𝐞𝐫𝐭𝐞𝐧 ☘️ 〕━⬣\n\n${oi}\n\n`
 for (let mem of participants) {
 teks += `┃☘️ @${mem.id.split('@')[0]}\n`}
