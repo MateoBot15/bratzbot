@@ -3,8 +3,8 @@ let handler = async(m, { conn }) => {
 //if (!db.data.chats[m.chat].stickers && m.isGroup) throw `${ag}𝙇𝙊𝙎 𝘾𝙊𝙈𝘼𝙉𝘿𝙊𝙎 𝘿𝙀 𝙎𝙏𝙄𝘾𝙆𝙀𝙍𝙎 𝙀𝙎𝙏𝘼𝙉 𝘿𝙀𝙎𝘼𝘾𝙏𝙄𝙑𝘼𝘿𝙊𝙎 𝙐𝙎𝙀 *#on stickers* 𝙋𝘼𝙍𝘼 𝘼𝘾𝙏𝙄𝙑𝘼𝙍\n\n𝙏𝙃𝙀 𝙎𝙏𝙄𝘾𝙆𝙀𝙍𝙎 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 𝘼𝙍𝙀 𝘿𝙄𝙎𝘼𝘽𝙇𝙀𝘿 𝙐𝙎𝙀 *#on stickers* 𝙏𝙊 𝙀𝙉𝘼𝘽𝙇𝙀`
 if (!db.data.chats[m.chat].stickers && m.isGroup) throw 0
 
-let nombre = '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️'
-let nombre2 = '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️'
+let nombre = 'PACME BRATZ ᥫ᭡፝֟፝֟ '
+let nombre2 = 'PACME BRATZ ᥫ᭡፝֟፝֟ '
  
 const s = [
 'https://c.tenor.com/ROXgoJcKD3YAAAAd/papu-xd.gif',
